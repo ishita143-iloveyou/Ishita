@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>আমার শিক্ষানোট</title>
+  <style>
+    body {
+      font-family: 'Noto Sans Bengali', sans-serif;
+      background-color: #f9f9f9;
+      margin: 0;
+      padding: 20px;
+    }
+    h1, h2 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    .month {
+      background: #fff;
+      margin: 20px auto;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      max-width: 800px;
+    }
+    .date {
+      font-weight: bold;
+      color: #006400;
+      margin-top: 15px;
+    }
+    .entry {
+      margin: 10px 0;
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+  <h1>আমার শিক্ষানোট</h1>
+
+  <div class="month">
+    <h2>জানুয়ারি ২০২৩</h2>
+    <div class="entry">
+      <div class="date">১০ জানুয়ারি ২০২৩ - মঙ্গলবার</div>
+      <p><strong>Classwork:</strong> সংখ্যা লিখেছি: ১, ২, ৩</p>
+      <p><strong>Homework:</strong> শব্দে লিখেছি: One, Two, Three</p>
+    </div>
+    <!-- এখানে জানুয়ারির আরও কাজ থাকবে -->
+  </div>
+
+  <div class="month">
+    <h2>ফেব্রুয়ারি ২০২৩</h2>
+    <div class="entry">
+      <div class="date">৫ ফেব্রুয়ারি ২০২৩ - রবিবার</div>
+      <p><strong>Classwork:</strong> সংখ্যার যোগফল লিখেছি</p>
+      <p><strong>Homework:</strong> দুই অংকের সংখ্যা লিখেছি</p>
+    </div>
+    <!-- এখানে ফেব্রুয়ারির আরও কাজ থাকবে -->
+  </div>
+
+  <div class="month">
+    <h2>মার্চ ২০২৩</h2>
+    <div class="entry">
+      <div class="date">১০ মার্চ ২০২৩ - শুক্রবার</div>
+      <p><strong>Classwork:</strong> এক অংকের সংখ্যা লিখেছি: ১, ২, ৩, ৪, ৫</p>
+      <p><strong>Homework:</strong> শব্দে লিখেছি: One, Two, Three, Four, Five</p>
+    </div>
+    <!-- এখানে মার্চের আরও কাজ থাকবে -->
+  </div>
+
+  <div class="month">
+    <h2>এপ্রিল ২০২৩</h2>
+    <div class="entry">
+      <div class="date">১ এপ্রিল ২০২৩ - শনিবার</div>
+      <p><strong>Classwork:</strong> সময় একক লিখেছি</p>
+      <p><strong>Homework:</strong> ঘণ্টা ও মিনিট বোঝার কাজ করেছি</p>
+    </div>
+    <!-- এখানে এপ্রিলে আরও কাজ থাকবে -->
+  </div>
+
+</body>
+</html>
